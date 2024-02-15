@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Awnish prasad sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align  = "right" alt = "coding" width="400" src="![image](https://github.com/Awnishprasad99/Awnishprasad99/assets/82196621/6a6f36d3-a2b8-4dbb-a1c9-5d9e65283d9b)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awnishprasad99&label=Profile%20views&color=0e75b6&style=flat" alt="awnishprasad99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awnishprasad99" alt="awnishprasad99" /></a> </p>
