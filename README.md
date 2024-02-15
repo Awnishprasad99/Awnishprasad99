@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Awnish prasad sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="![dizzy-programmer-working-with-code-on-a-laptop](https://github.com/Awnishprasad99/Awnishprasad99/assets/82196621/6e582908-2ce6-42cb-b273-167720123463)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awnishprasad99&label=Profile%20views&color=0e75b6&style=flat" alt="awnishprasad99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/awnish_prasad" target="blank"><img src="https://img.shields.io/twitter/follow/awnish_prasad?logo=twitter&style=for-the-badge" alt="awnish_prasad" /></a> </p>
