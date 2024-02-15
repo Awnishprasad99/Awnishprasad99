@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Awnish prasad sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<div align=""right size="200px">
 ![dizzy-programmer-working-with-code-on-a-laptop](https://github.com/Awnishprasad99/Awnishprasad99/assets/82196621/c18499cf-f8d8-4fae-b80a-955526c27286)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awnishprasad99&label=Profile%20views&color=0e75b6&style=flat" alt="awnishprasad99" /> </p>
 
