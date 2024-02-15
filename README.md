@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [awnishprasad99](awnishprasad99)
 
-- 💬 Ask me about **react,html,css,js tailwind**
+- 💬 Ask me about **React, HTML, CSS,JS, Tailwind, node js, python, Cpp,Docker**
 
 - 📫 How to reach me **awnishprasad99@gmail.com**
 
