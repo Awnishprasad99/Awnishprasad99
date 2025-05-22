@@ -1,50 +1,97 @@
-<h1 align="center">Hi 👋, I'm Awnish prasad sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awnishprasad99&label=Profile%20views&color=0e75b6&style=flat" alt="awnishprasad99" /> </p>
-
-<p align="left"> <a href="https://twitter.com/awnish_prasad" target="blank"><img src="https://img.shields.io/twitter/follow/awnish_prasad?logo=twitter&style=for-the-badge" alt="awnish_prasad" /></a> </p>
-
-- 🔭 I’m currently working on **SLX**
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **full stack web development**
-
-- 🤝 I’m looking for help with **React hooks**
-
-- 👨‍💻 All of my projects are available at [------------------------](------------------------)
-
-- 📝 I regularly write articles on [awnishprasad99](awnishprasad99)
-
-- 💬 Ask me about **React, HTML, CSS, JS, Tailwind, node js, python, Cpp, Docker**
-
-- 📫 How to reach me **awnishprasad99@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sKI37FmfVBcGl1h69DRzcgxK1jzyw7aH/view?usp=drive_link](https://drive.google.com/file/d/1sKI37FmfVBcGl1h69DRzcgxK1jzyw7aH/view?usp=drive_link)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/awnishprasad99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/awnishprasad99" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/awnishprasad99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/awnishprasad99" height="30" width="40" /></a>
-<a href="https://twitter.com/awnish_prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awnish_prasad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/awnish-prasad-b9b089212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awnish-prasad-b9b089212/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:23410332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23410332" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/awnishprasad99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/awnishprasad99" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/awnishprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/awnishprasad" height="30" width="40" /></a>
-<a href="/--------------" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="--------------" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Awnish Prasad Sharma</h1>
+<h3 align="center">🚀 DevOps Engineer | MERN Stack Developer | Cloud Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+scalable+systems;Automating+everything;Cloud+%26+DevOps+practitioner;Full-Stack+React+Developer" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awnishprasad99&show_icons=true&locale=en&layout=compact" alt="awnishprasad99" /></p>
+- 🔭 I’m currently working at **Segenext Infotech LLC**  
+- 👨‍💻 Previously at **Metageeks Technology** as a MERN Stack Developer  
+- 🌱 Currently learning **Advanced DevOps & Generative AI**
+- 💼 Actively building projects using **Next.js, Docker, Firebase, Terraform**
+- 💬 Ask me about **React, CI/CD, Cloud Platforms, DevOps Tools, Linux, Tailwind, and Node.js**
+- 📫 Reach me at **awnishprasad99@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/1sKI37FmfVBcGl1h69DRzcgxK1jzyw7aH/view?usp=drive_link)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awnishprasad99&show_icons=true&locale=en" alt="awnishprasad99" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awnishprasad99&" alt="awnishprasad99" /></p>
+## 🛠️ Technical Skills
+
+- **Languages:** C++, Python, JavaScript, Bash  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Cloud Platforms:** AWS, Microsoft Azure  
+- **DevOps & Tools:** Docker, Kubernetes, Jenkins, Terraform, Ansible, GitHub Actions  
+- **Database:** MongoDB, MySQL  
+- **Version Control:** Git, GitHub  
+- **OS & Networking:** Linux, Windows Server, VMware, Hyper-V  
+- **Soft Skills:** Leadership, Adaptability, Discipline, Learning Attitude
+
+---
+
+## 🏆 Certifications
+
+- **AWS Academy Cloud Foundations**  
+- **AWS Cloud Practitioner Essentials**  
+- **Getting Started with AWS Cloud Essentials**  
+- **Oracle APEX Foundation & Oracle Cloud Essentials**  
+- **Introduction to Generative AI** (by Google Cloud)  
+- **Generative AI for DevOps**  
+- **Cloud Billing & Cost Management**  
+- **Job Roles in the Cloud**  
+- **Cloud Essentials Knowledge Badge**
+
+---
+
+## 💼 Work Experience
+
+### 🔧 Segenext Infotech LLC | Gorakhpur, India  
+**Virtual Machine & Server Management (Mar 2025 – Present)**  
+- Managed virtual environments using VMware, Hyper-V, and VirtualBox  
+- Configured RDP/SSH access, folder mapping, and user roles  
+- Ensured server reliability, backup policies, and security configurations
+
+### 💻 Metageeks Technology | Noida, India  
+**MERN Stack Developer (Feb 2025 – Mar 2025)**  
+- Built scalable apps using React, Next.js, Tailwind CSS, Redux  
+- Implemented CI/CD pipelines via Firebase, GitHub Actions, and Vercel  
+- Added authentication (Firebase/Auth0) and optimized SEO with SSR
+
+---
+
+## 🌟 Projects
+
+### 🎯 **Liveverse** (Aug 2024)  
+*Tech Stack:* Next.js, Tailwind CSS  
+- Built a lead generation system with responsive UI & SEO optimization  
+- Implemented API integrations & secure data storage
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=awnishprasad99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awnishprasad99&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awnishprasad99&theme=tokyonight" alt="awnishprasad99" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://twitter.com/awnish_prasad"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/awnish-prasad-b9b089212/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+<a href="https://github.com/awnishprasad99"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"></a>
+<a href="https://www.kaggle.com/awnishprasad"><img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&style=for-the-badge"></a>
+<a href="mailto:awnishprasad99@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"></a>
+</p>
+
+---
+
+_⚡ “Consistency and automation build mastery. I believe in crafting resilient systems that scale and simplify.”_
+
