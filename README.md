@@ -13,6 +13,7 @@
 - 💬 Ask me about **React, CI/CD, Cloud Platforms, DevOps Tools, Linux, Tailwind, and Node.js**
 - 📫 Reach me at **awnishprasad99@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1sKI37FmfVBcGl1h69DRzcgxK1jzyw7aH/view?usp=drive_link)
+- 🌐 [About Me](https://magnificent-cheesecake-3df438.netlify.app/)
 
 ---
 
