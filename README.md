@@ -1,137 +1,131 @@
-<!-- 3D Neon Banner -->
+<!-- ⚡ 3D Neon Tunnel Banner -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJjMHZuZzVxbDVxaWxiOThubWJuMXZveXc5M2d6cGFjems2MjFxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xCCqt6qDewWf6zriPX/200w.gif" width="20%" alt="Cyberpunk Banner"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300%" alt="Futuristic Tunnel">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&duration=3500&pause=1000&color=00FAD9&center=true&vCenter=true&width=940&height=120&lines=Hey!+I%E2%80%99m+Awnish+Prasad+Sharma;🚀+DevOps+%26+Full‑Stack+Wizard;⚡+Cloud+%26+Generative+AI+Explorer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=Hey+I'm+Awnish+Prasad+Sharma;🚀+DevOps+%26+Cloud+Enthusiast;💻+Full+Stack+MERN+Developer;⚙️+Automating+Infra+with+Terraform+%26+Docker" alt="Typing SVG">
 </h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,react,nextjs,nodejs,js,ts,tailwindcss,cpp,python,bash,mongodb,git" />
 </p>
 
-<!-- Profile Views counter -->
+<!-- Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=awnishprasad99&style=flat-square&color=00d9ff"/>
+  <img src="https://komarev.com/ghpvc/?username=awnishprasad99&style=for-the-badge&color=00ffee" alt="Profile views" />
 </p>
 
 ---
 
 ## ✨ About Me
+
+- 🧠 Exploring **Advanced DevOps + GenAI**
+- 🏢 Working at **Segenext Infotech LLC** (VM/Server Engineer)
+- 🛠️ Former MERN Stack Dev @ **Metageeks**
+- 🧱 Building with **Next.js, Docker, Firebase, Terraform**
+- 🧑‍💻 I love automating everything 💥
+- 📫 Reach me at: **awnishprasad99@gmail.com**
+- 🧾 [Resume](https://drive.google.com/file/d/1sKI37FmfVBcGl1h69DRzcgxK1jzyw7aH/view?usp=drive_link) | 🌐 [Portfolio](https://magnificent-cheesecake-3df438.netlify.app/)
+
+---
+
+## ⚙️ Tech Stack
+
+| Category           | Technologies                                                                 |
+|--------------------|------------------------------------------------------------------------------|
+| 💬 Languages       | C++, Python, JavaScript, Bash                                                |
+| 🎨 Frontend        | React, Next.js, Tailwind, Bootstrap                                          |
+| 🔧 Backend         | Node.js, Express.js                                                          |
+| ☁️ Cloud           | AWS, Azure                                                                   |
+| 🚀 DevOps & Tools  | Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions              |
+| 💾 Database        | MongoDB, MySQL                                                               |
+| 🖥️ OS & Virtual    | Linux, Windows Server, VMware, Hyper-V                                       |
+
+---
+
+## 🏅 Certifications
+
 <details>
   <summary>Click to expand</summary>
 
-- 🔭 I’m currently working at **Segenext Infotech LLC**  
-- 👨‍💻 Previously at **Metageeks Technology** as a MERN Stack Developer  
-- 🌱 Currently deep‑diving into **Advanced DevOps & Generative AI**  
-- 🏗️ Building cloud‑native products with **Next.js, Docker, Firebase & Terraform**  
-- 💬 Ask me about **React, CI/CD, Cloud Platforms, Linux, Tailwind, Node.js**  
-- 📫 Reach me at **awnishprasad99@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/1sKI37FmfVBcGl1h69DRzcgxK1jzyw7aH/view?usp=drive_link)  
-- 🌐 [Portfolio](https://magnificent-cheesecake-3df438.netlify.app/)
-
-</details>
-
----
-
-## 🚀 Tech Stack
-| Category | Tools |
-| -------- | ----- |
-| **Languages** | `C++` `Python` `JavaScript` `Bash` |
-| **Frontend** | `React` `Next.js` `Tailwind CSS` `Bootstrap` |
-| **Backend** | `Node.js` `Express.js` |
-| **Cloud** | `AWS` `Azure` |
-| **DevOps** | `Docker` `Kubernetes` `Jenkins` `Terraform` `Ansible` `GitHub Actions` |
-| **Database** | `MongoDB` `MySQL` |
-| **OS & Virtualization** | `Linux` `Windows Server` `VMware` `Hyper‑V` |
-
----
-
-## 🏆 Certifications
-<details>
-  <summary>Show List</summary>
-
 - AWS Academy Cloud Foundations  
 - AWS Cloud Practitioner Essentials  
-- Getting Started with AWS Cloud Essentials  
-- Oracle APEX Foundation & Oracle Cloud Essentials  
-- Introduction to Generative AI (Google Cloud)  
-- Generative AI for DevOps  
-- Cloud Billing & Cost Management  
+- Oracle APEX & Cloud Essentials  
+- Generative AI for DevOps (Google)  
+- Cloud Billing & Cost Optimization  
 - Job Roles in the Cloud  
-- Cloud Essentials Knowledge Badge  
 
 </details>
 
 ---
 
 ## 💼 Experience
-<details>
-  <summary>Show Timeline</summary>
 
-### **Segenext Infotech LLC** — *Gorakhpur, India*  
-**Virtual Machine & Server Management — Mar 2025 → Present**  
-- Managed VMware, Hyper‑V & VirtualBox clusters  
-- Automated backup, monitoring & hardening pipelines  
-- Optimized RDP/SSH provisioning via Ansible
+### 🔧 Segenext Infotech LLC | *2025 – Present*
+- Server + VM lifecycle mgmt (VMware, Hyper-V, VirtualBox)
+- Configured RDP/SSH, backups, firewall & security rules
+- Automated using Bash + Ansible
 
-### **Metageeks Technology** — *Noida, India*  
-**MERN Stack Developer — Feb 2025 → Mar 2025**  
-- Built SEO‑friendly React/Next.js apps with Tailwind & Redux  
-- Set up zero‑downtime CI/CD on Firebase & Vercel  
-- Integrated Auth0 & Firebase authentication
-
-</details>
+### 💻 Metageeks Technology | *Feb – Mar 2025*
+- React/Next.js app dev with Tailwind CSS, Redux
+- Firebase CI/CD, Auth (Firebase/Auth0), SEO optimization
 
 ---
 
-## 🌟 Highlight Project – **Liveverse**
-> *Aug 2024 • Next.js • Tailwind CSS*
+## 🚀 Highlight Project – **Liveverse**
 
-Lead‑gen platform with responsive UI, server‑side SEO, secured API integrations & automated Vercel deployments.
+🗓️ *Aug 2024*  
+🛠️ *Next.js • Tailwind • Vercel*
+
+> Lead-gen system with full SEO, secure data storage, and blazing-fast deployment pipelines.
 
 ---
 
-## 📈 GitHub Metrics
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awnishprasad99&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awnishprasad99&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awnishprasad99&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awnishprasad99&layout=compact&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awnishprasad99&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=awnishprasad99&theme=radical" />
 </p>
 
-<!-- Trophy & Skyline -->
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awnishprasad99&theme=onedark&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=awnishprasad99&theme=algolia&row=1&margin-w=15" />
 </p>
 
-<!-- GitHub Contribution Snake -->
+---
+
+## 🧠 Contribution Snake + Skyline
+
 <p align="center">
   <img src="https://github.com/awnishprasad99/awnishprasad99/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
-<!-- GitHub Skyline (replace `YEAR` with actual year and upload gif if needed) -->
 <p align="center">
   <a href="https://skyline.github.com/awnishprasad99/2024">
-    <img src="https://raw.githubusercontent.com/awnishprasad99/awnishprasad99/main/assets/skyline.gif" alt="3D Skyline of my contributions" width="70%" />
+    <img src="https://raw.githubusercontent.com/awnishprasad99/awnishprasad99/main/assets/skyline.gif" width="80%" />
   </a>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://twitter.com/awnish_prasad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/awnish-prasad-b9b089212/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/awnishprasad99"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.kaggle.com/awnishprasad"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:awnishprasad99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://twitter.com/awnish_prasad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/awnish-prasad-b9b089212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/awnishprasad99"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:awnishprasad99@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ <i>“Consistency and automation build mastery. I craft resilient systems that scale and simplify.”</i> ⚡
+  💡 <i>\"I don't just code, I engineer systems that work like magic. Let's automate the world!\"</i>
 </p>
