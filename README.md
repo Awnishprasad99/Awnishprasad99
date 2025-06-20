@@ -1,19 +1,19 @@
 <!-- ⚡ 3D Neon Tunnel Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300%" alt="Futuristic Tunnel">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJjMHZuZzVxbDVxaWxiOThubWJuMXZveXc5M2d6cGFjems2MjFxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xCCqt6qDewWf6zriPX/200w.gif" width="40%" alt="Cyberpunk Banner"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=Hey+I'm+Awnish+Prasad+Sharma;🚀+DevOps+%26+Cloud+Enthusiast;💻+Full+Stack+MERN+Developer;⚙️+Automating+Infra+with+Terraform+%26+Docker" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&duration=3500&pause=1000&color=00FAD9&center=true&vCenter=true&width=940&height=120&lines=Hey!+I%E2%80%99m+Awnish+Prasad+Sharma;🚀+DevOps+%26+Full‑Stack+Wizard;⚡+Cloud+%26+Generative+AI+Explorer" alt="Typing SVG">
 </h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,react,nextjs,nodejs,js,ts,tailwindcss,cpp,python,bash,mongodb,git" />
 </p>
 
-<!-- Views Counter -->
+<!-- Profile Views counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=awnishprasad99&style=for-the-badge&color=00ffee" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=awnishprasad99&style=flat-square&color=00d9ff"/>
 </p>
 
 ---
