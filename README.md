@@ -104,13 +104,9 @@
 
 ## 🧠 Contribution Snake + Skyline
 
+<!-- Contribution Snake -->
 <p align="center">
-  <img src="https://github.com/awnishprasad99/awnishprasad99/blob/output/github-contribution-grid-snake.svg" />
-</p>
-<p align="center">
-  <a href="https://skyline.github.com/awnishprasad99/2024">
-    <img src="https://raw.githubusercontent.com/awnishprasad99/awnishprasad99/main/assets/skyline.gif" width="80%" />
-  </a>
+  <img src="https://github.com/awnishprasad99/awnishprasad99/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
