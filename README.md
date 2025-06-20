@@ -1,6 +1,6 @@
 <!-- 3D Neon Banner -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJjMHZuZzVxbDVxaWxiOThubWJuMXZveXc5M2d6cGFjems2MjFxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xCCqt6qDewWf6zriPX/200w.gif" width="10%" alt="Cyberpunk Banner"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJjMHZuZzVxbDVxaWxiOThubWJuMXZveXc5M2d6cGFjems2MjFxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xCCqt6qDewWf6zriPX/200w.gif" width="20%" alt="Cyberpunk Banner"/>
 </p>
 
 <h1 align="center">
